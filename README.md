@@ -2,7 +2,7 @@
 This repository contains documentation for a Manual Testing Project, aimed at ensuring the functionality, reliability, and usability of the application under test
 Here is a general-purpose `README.md` format that you can adapt for most projects (especially software or code-related projects).
 
-# 📘 Project Title
+# 📘 Manual Testing Project
 
 > A short description of what the project does and who it's for.
 
